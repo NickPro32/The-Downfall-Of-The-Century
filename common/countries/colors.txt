@@ -1,0 +1,22 @@
+#reload countrycolors
+
+ENU = {
+	color = rgb { 202 0 20 }
+	color_ui = rgb { 202 0 20 }
+}
+ENS = {
+	color = rgb { 0 30 150 }
+	color_ui = rgb { 0 30 150 }
+}
+SCO = {
+	color = rgb { 228 201 5 }
+	color_ui = rgb { 228 201 5 }
+}
+WLS = {
+	color = rgb { 112 34 100 }
+	color_ui = rgb { 112 34 100 }
+}
+IRE = {
+	color = rgb { 80 159 90 }
+	color_ui = rgb { 80 159 90 }
+}

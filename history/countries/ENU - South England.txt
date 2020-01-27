@@ -1,0 +1,17 @@
+﻿capital = 126
+
+color = { 255 32 8 }
+
+set_politics = {
+	ruling_party = socialism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	socialism = 95
+	anarchism = 1
+	democratic = 2
+	nationalism = 1
+	authoritarianism = 1
+}

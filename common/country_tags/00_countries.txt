@@ -1,0 +1,6 @@
+ENU = "countries/South England.txt"
+ENS = "countries/North England.txt"
+SCO = "countries/Scotland.txt"
+WLS = "countries/Wales.txt"
+IRE = "countries/Ireland.txt"
+USA = "countries/USA.txt"

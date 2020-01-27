@@ -1,0 +1,14 @@
+capital = 361
+
+set_politics = {
+	ruling_party = authoritarianism
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	authoritarianism = 38
+	nationalism = 37
+	democratic = 24
+	socialism = 1
+}
