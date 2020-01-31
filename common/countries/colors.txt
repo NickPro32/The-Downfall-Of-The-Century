@@ -20,3 +20,68 @@ IRE = {
 	color = rgb { 80 159 90 }
 	color_ui = rgb { 80 159 90 }
 }
+################### 
+ANG = {
+	color = rgb { 164 254 165 }
+	color_ui = rgb { 164 254 165 }
+}
+AST = {
+	color = rgb { 190 99 255 }
+	color_ui = rgb { 190 99 255 }
+}
+CAM = {
+	color = rgb { 200 149 117 }
+	color_ui = rgb { 200 149 117 }
+}
+ETH = {
+	color = rgb { 225 255 0 }
+	color_ui = rgb { 225 255 0 }
+}
+GUI = {
+	color = rgb { 202 78 195 }
+	color_ui = rgb { 202 78 195 }
+}
+ISR = {
+	color = rgb { 204 90 62 }
+	color_ui = rgb { 204 90 62 }
+}
+LAO = {
+	color = rgb { 58 170 137 }
+	color_ui = rgb { 58 170 137 }
+}
+MAL = {
+	color = rgb { 48 181 92 }
+	color_ui = rgb { 48 181 92 }
+}
+MYA = {
+	color = rgb { 190 48 219 }
+	color_ui = rgb { 190 48 219 }
+}
+OCE = {
+	color = rgb { 182 255 0 }
+	color_ui = rgb { 182 255 0 }
+}
+PHI = {
+	color = rgb { 234 49 79 }
+	color_ui = rgb { 234 49 79 }
+}
+SIB = {
+	color = rgb { 63 58 155 }
+	color_ui = rgb { 63 58 155 }
+}
+SIN = {
+	color = rgb { 150 127 219 }
+	color_ui = rgb { 150 127 219 }
+}
+TUA = {
+	color = rgb { 201 246 126 }
+	color_ui = rgb { 201 246 126 }
+}
+VIN = {
+	color = rgb { 160 31 108 }
+	color_ui = rgb { 160 31 108 }
+}
+ZAR = {
+	color = rgb { 205 167 30 }
+	color_ui = rgb { 205 167 30 }
+}
