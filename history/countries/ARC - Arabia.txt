@@ -1,0 +1,17 @@
+capital = 292
+
+set_convoys = 200
+
+set_politics = {
+	ruling_party = islamism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 8
+	socialism = 7
+	authoritarianism = 3
+	anarchism = 3
+	islamism = 79
+}
