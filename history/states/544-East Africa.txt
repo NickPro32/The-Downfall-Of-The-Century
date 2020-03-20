@@ -8,6 +8,7 @@ state={
 	
 	history={
 		owner = FAS
+		add_core_of = FAS
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

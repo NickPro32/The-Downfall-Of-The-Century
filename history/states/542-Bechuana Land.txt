@@ -12,10 +12,11 @@ state={
 
 	history={
 		owner = FAS
+		add_core_of = FAS
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = FAS
+		add_core_of = BOT
 		victory_points = {
 			8214 1
 		}
