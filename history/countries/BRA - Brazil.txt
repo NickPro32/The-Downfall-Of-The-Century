@@ -1,0 +1,18 @@
+﻿capital = 500
+
+
+oob = "BRA_1936"
+
+set_politics = {
+	ruling_party = nationalism
+	last_election = "2073.1.13"
+	election_frequency = 72  
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 6
+	socialism = 3
+	anarchism = 3
+	nationalism = 82
+	authoritarianism = 6
+}

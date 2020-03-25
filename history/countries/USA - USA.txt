@@ -2,7 +2,7 @@ capital = 361
 
 set_politics = {
 	ruling_party = authoritarianism
-	last_election = "1932.11.8"
+	last_election = "2096.11.6"
 	election_frequency = 48
 	elections_allowed = yes
 }
@@ -11,4 +11,14 @@ set_popularities = {
 	nationalism = 37
 	democratic = 24
 	socialism = 1
+}
+
+create_country_leader = {
+	name = "Brandon Gatewood"
+	desc = ""
+	picture = "gfx/leaders/USA/Portrait_USA_Brandon_Gatewood.dds"
+	ideology = neoliberalism
+	traits = {
+		#
+	}
 }

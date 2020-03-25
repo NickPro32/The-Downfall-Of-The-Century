@@ -1,0 +1,18 @@
+﻿capital = 306
+
+oob = "COL_1936"
+
+set_convoys = 5
+set_politics = {
+	ruling_party = socialism
+	last_election = "1934.2.11"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 4
+	anarchism = 3
+	socialism = 88
+	authoritarianism = 3
+	nationalism = 2
+}

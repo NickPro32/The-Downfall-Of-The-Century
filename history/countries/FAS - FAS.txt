@@ -9,7 +9,7 @@ set_convoys = 20
 
 set_politics = {
 	ruling_party = democratic
-	last_election = "1936.1.1"
+	last_election = "2098.04.18"
 	election_frequency = 48
 	elections_allowed = yes
 }
@@ -20,3 +20,4 @@ set_popularities = {
 	anarchism = 3
 	islamism = 2
 }
+

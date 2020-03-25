@@ -9,7 +9,7 @@ set_convoys = 20
 
 set_politics = {
 	ruling_party = democratic
-	last_election = "1936.1.1"
+	last_election = "2095.9.29"
 	election_frequency = 48
 	elections_allowed = yes
 }
@@ -21,4 +21,13 @@ set_popularities = {
 	islamism = 2
 }
 
+create_country_leader = {
+	name = "Ferhat Abbas Junior"
+	desc = ""
+	picture = "gfx/leaders/ADR/Portrait_ADR_Ferhat_Abbas_Junior.dds"
+	ideology = liberalism
+	traits = {
+		#
+	}
+}
 

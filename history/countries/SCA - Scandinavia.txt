@@ -1,0 +1,15 @@
+capital = 141
+
+set_politics = {
+	ruling_party = socialism
+	last_election = "2093.1.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 8
+	nationalism = 1
+	socialism = 73
+	anarchism = 4
+	authoritarianism = 14
+}

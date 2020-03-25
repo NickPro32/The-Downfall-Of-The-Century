@@ -1,0 +1,17 @@
+﻿capital = 303
+
+oob = "PRU_1936"
+
+set_politics = {
+	ruling_party = anarchism
+	last_election = "1934.7.1"
+	election_frequency = 72
+	elections_allowed = no
+}
+set_popularities = {
+	anarchism = 79
+	democratic = 7
+	socialism = 3
+	nationalism = 5
+	authoritarianism = 6
+}
