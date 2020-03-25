@@ -42,8 +42,8 @@ GUI = {
 	color_ui = rgb { 202 78 195 }
 }
 ISR = {
-	color = rgb { 204 90 62 }
-	color_ui = rgb { 204 90 62 }
+	color = rgb { 0 56 184 }
+	color_ui = rgb { 0 56 184 }
 }
 LAO = {
 	color = rgb { 58 170 137 }
@@ -84,4 +84,110 @@ VIN = {
 ZAR = {
 	color = rgb { 205 167 30 }
 	color_ui = rgb { 205 167 30 }
+}
+#############
+ADR = {
+	color = rgb { 203 3 51 }
+	color_ui = rgb { 203 3 51 }
+}
+EGY = {
+	color = rgb { 199 177 135 }
+	color_ui = rgb { 199 177 135 }
+}
+JAP = {
+	color = rgb { 255 255 0 }
+	color_ui = rgb { 255 255 0 }
+}
+FAS = {
+	color = rgb { 205 87 0 }
+	color_ui = rgb { 205 87 0 }
+}
+MON = {
+	color = rgb { 108 140 42 }
+	color_ui = rgb { 108 140 42 }
+}
+USA = {
+	color = rgb { 20 133 237 }
+	color_ui = rgb { 20 133 237 }
+}
+SWA = {
+	color = rgb { 240 74 104 }
+	color_ui = rgb { 240 74 104 }
+}
+#########################
+ZAM = {
+	color = rgb { 251 244 133 }
+	color_ui = rgb { 251 244 133 }
+}
+GAB = {
+	color = rgb { 84 281 71 }
+	color_ui = rgb { 84 281 71 }
+}
+EQG = {
+	color = rgb { 65 164 133 }
+	color_ui = rgb { 65 164 133 }
+}
+CMR = {
+	color = rgb { 240 74 104 }
+	color_ui = rgb { 164 208 162 }
+}
+NIG = {
+	color = rgb { 231 155 49 }
+	color_ui = rgb { 231 155 49 }
+}
+CAR = {
+	color = rgb { 110 121 237 }
+	color_ui = rgb { 110 121 237 }
+}
+CHD = {
+	color = rgb { 216 57 176 }
+	color_ui = rgb { 216 57 176 }
+}
+NGR = {
+	color = rgb { 9 129 228 }
+	color_ui = rgb { 9 129 228 }
+}
+BKF = {
+	color = rgb { 77 92 139 }
+	color_ui = rgb { 77 92 139 }
+}
+MLI = {
+	color = rgb { 105 206 239 }
+	color_ui = rgb { 105 206 239 }
+}
+SEN = {
+	color = rgb { 29 152 183 }
+	color_ui = rgb { 29 152 183 }
+}
+SML = {
+	color = rgb { 116 67 120 }
+	color_ui = rgb { 116 67 120 }
+}
+ARC = {
+	color = rgb { 0 153 0 }
+	color_ui = rgb { 0 153 0 }
+}
+MEX = {
+	color = rgb { 249 147 82 }
+	color_ui = rgb { 249 147 82 }
+}
+COL = {
+	color = rgb { 134 37 252 }
+	color_ui = rgb { 134 37 252 }
+}
+BRA = {
+	color = rgb { 0 255 128 }
+	color_ui = rgb { 0 255 128 }
+}
+ARG = {
+	color = rgb { 7 167 207 }
+	color_ui = rgb { 7 167 207 }
+}
+PRU = {
+	color = rgb { 204 0 102 }
+	color_ui = rgb { 204 0 102 }
+}
+CHL = {
+	color = rgb { 158 185 244 }
+	color_ui = rgb { 158 185 244 }
 }
