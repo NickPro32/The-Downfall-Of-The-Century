@@ -1,0 +1,176 @@
+﻿l_russian:
+
+ENS_democratic:0 "Английская Республика"
+ENS_democratic_DEF:0 "Английская Республика" 
+ENS_anarchist:0 "Свободная Территория Англия"
+ENS_anarchist_DEF:0 "Свободная Территория Англия"
+ENS_socialist:0 "Английская Народная Республика"
+ENS_socialist_DEF:0 "Английская Народная Республика" 
+ENS_authoritarian:0 "Английское Государство" 
+ENS_authoritarian_DEF:0 "Английское Государство" 
+ENS_nationalist:0 "Национальное Государство Англия" 
+ENS_nationalist_DEF:0 "Национальное Государство Англия" 
+ENS_islamist:0 "Исламская Республика Англия"
+ENS_islamist_DEF:0 "Английский Эмират" 
+
+ENU_democratic:0 "Английская Республика"
+ENU_democratic_DEF:0 "Английская Республика" 
+ENU_anarchist:0 "Свободная Территория Англия" 
+ENU_anarchist_DEF:0 "Свободная Территория Англия"
+ENU_socialist:0 "Английский Союз" 
+ENU_socialist_DEF:0 "Английский Союз"
+ENU_authoritarian:0 "Английский Военный Совет" 
+ENU_authoritarian_DEF:0 "Английский Военный Совет" 
+ENU_nationalist:0 "Великая Английская Империя" 
+ENU_nationalist_DEF:0 "Великая Английская Империя"
+ENU_islamist:0 "Английский Эмират"
+ENU_islamist_DEF:0 "Английский Эмират"
+
+SCO_democratic:0 "Шотландская Республика" 
+SCO_democratic_DEF:0 "Шотландская Республика" 
+SCO_socialism:0 "Шотландская Социалистическая Республика" 
+SCO_socialism_DEF:0 "Шотландская Социалистическая Республика" 
+SCO_authoritarianism:0 "Шотландия" 
+SCO_authoritarianism_DEF:0 "Государство Шотландия"
+
+WLS_democratic:0 "Валлийская Республика" 
+WLS_democratic_DEF:0 "Валлийская Республика" 
+WLS_socialism:0 "Валлийская Социалистическая Республика" 
+WLS_socialism_DEF:0 "Валлийская Социалистическая Республика" 
+WLS_authoritarianism:0 "Уэльс" 
+WLS_authoritarianism_DEF:0 "Государство Уэльс"
+
+IRE_nationalism:0 "Королевство Ирландия" 
+IRE_nationalism_DEF:0 "Королевство Ирландия"
+
+#Региональные державы
+ANG_democratic:0 "Федеративная Республика Ангола"
+ANG_democratic_DEF:0 "Ангола"
+
+AST_democratic:0 "Австралийская Республика"
+AST_democratic_DEF:0 "Австралия"
+
+CAM_democratic:0 "Королевство Камбоджа"
+CAM_democratic_DEF:0 "Камбоджа"
+
+ETH_democratic:0 "Республика Эфиопия"
+ETH_democratic_DEF:0 "Эфиопия"
+
+GUI_democratic:0 "Гвинейская Федерация"
+GUI_democratic_DEF:0 "Гвинея"
+
+ISR_democratic:0 "Государство Израиль"
+ISR_democratic_DEF:0 "Израиль"
+
+LAO_democratic:0 "Королевство Лаос"
+LAO_democratic_DEF:0 "Лаос"
+
+MAL_democratic:0 "Малайзийская Федерация"
+MAL_democratic_DEF:0 "Малайзия"
+
+MYA_democratic:0 "Союз Мьянма и Сиам"
+MYA_democratic_DEF:0 "Мьянма и Сиам"
+
+OCE_democratic:0 "Океанийская Федерация"
+OCE_democratic_DEF:0 "Океания"
+
+PHI_democratic:0 "Филиппинская Республика"
+PHI_democratic_DEF:0 "Филиппины"
+
+SIB_democratic:0 "Вольная Земля Сибири"
+SIB_democratic_DEF:0 "Сибирь"
+
+SIN_democratic:0 "Республика Сингапур"
+SIN_democratic_DEF:0 "Сингапур"
+
+TUA_democratic:0 "Туарегская Республика"
+TUA_democratic_DEF:0 "Туарегия"
+
+VIN_democratic:0 "Республика Вьетнам"
+VIN_democratic_DEF:0 "Вьетнам"
+
+ZAR_democratic:0 "Республика Заир"
+ZAR_democratic_DEF:0 "Заир"
+
+#Основные страны
+ADR_democratic:0 "Арабская Демократическая Республика"
+ADR_democratic_DEF:0 "Арабская Демократическая Республика"
+
+EGY_democratic:0 "Египетская Республика"
+EGY_democratic_DEF:0 "Египет"
+
+FAS_democratic:0 "Федерация Африканских Штатов"
+FAS_democratic_DEF:0 "Федерация Африканских Штатов"
+
+JAP_democratic:0 "Японская Республика"
+JAP_democratic_DEF:0 "Япония"
+
+MON_democratic:0 "Демократическая Республика Монголия"
+MON_democratic_DEF:0 "Монголия"
+
+SWA_democratic:0 "Федеративная Республика Суахилия"
+SWA_democratic_DEF:0 "Суахилия"
+
+USA_democratic:0 "Соединённые Штаты Америки"
+USA_democratic_DEF:0 "Соединённые Штаты Америки"
+USA_authoritarianism:0 "Соединённые Штаты Америки"
+USA_authoritarianism_DEF:0 "Соединённые Штаты Америки"
+
+#Другие страны, частично или полностью расположенные в Африке
+ZAM_democratic:0 "Республика Замбия"
+ZAM_democratic_DEF:0 "Замбия"
+
+GAB_democratic:0 "Габонская Республика"
+GAB_democratic_DEF:0 "Габон"
+
+EQG_democratic:0 "Экваториальная Гвинея"
+EQG_democratic_DEF:0 "Экваториальная Гвинея"
+
+CMR_democratic:0 "Республика Камерун"
+CMR_democratic_DEF:0 "Камерун"
+
+NIG_democratic:0 "Республика Нигерия"
+NIG_democratic_DEF:0 "Нигерия"
+
+CAR_democratic:0 "Центральноафриканская Республика"
+CAR_democratic_DEF:0 "Центральноафриканская Республика"
+
+CHD_democratic:0 "Республика Чад"
+CHD_democratic_DEF:0 "Чад"
+
+NGR_democratic:0 "Республика Нигер"
+NGR_democratic_DEF:0 "Нигер"
+
+BKF_democratic:0 "Буркина-Фасо"
+BKF_democratic_DEF:0 "Буркина-Фасо"
+
+MLI_democratic:0 "Республика Мали"
+MLI_democratic_DEF:0 "Мали"
+
+SEN_democratic:0 "Сенегамбия"
+SEN_democratic_DEF:0 "Сенегамбия"
+
+SML_democratic:0 "Сомалиленд"
+SML_democratic_DEF:0 "Сомалиленд"
+
+ARC_islamism:0 "Арабский Халифат"
+ARC_islamism_DEF:0 "Арабский Халифат"
+
+#Ещё что-то
+MEX_anarchism:0 "Революционная Мексика"
+MEX_anarchism_DEF:0 "Мексика"
+
+COL_socialism:0 "Социалистическая Республика Колумбия"
+COL_socialism_DEF:0 "Колумбия"
+
+BRA_nationalism:0 "Государство Великая Бразилия"
+BRA_nationalism_DEF:0 "Бразилия"
+
+ARG_authoritarianism:0 "Аргентинская Республика"
+ARG_authoritarianism_DEF:0 "Аргентина"
+
+CHL_authoritarianism:0 "Чилийская Республика"
+CHL_authoritarianism_DEF:0 "Чили"
+
+PRU_anarchism:0 "Свободная Территория Перу"
+PRU_anarchism_DEF:0 "Перу"

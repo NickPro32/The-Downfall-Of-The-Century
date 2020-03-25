@@ -1,0 +1,176 @@
+﻿l_english:
+
+#Countries that I did the first
+ENS_democratic:0 "English Republic"
+ENS_democratic_DEF:0 "English Republic" 
+ENS_anarchism:0 "Free Territory of England"
+ENS_anarchism_DEF:0 "Free Territory of England"
+ENS_socialism:0 "English People's Republic"
+ENS_socialism_DEF:0 "English People's Republic" 
+ENS_authoritarianism:0 "English State" 
+ENS_authoritarianism_DEF:0 "English State" 
+ENS_nationalism:0 "National State of England" 
+ENS_nationalism_DEF:0 "National State of England" 
+ENS_islamism:0 "Islamic Republic of England"
+ENS_islamism_DEF:0 "Islamic Republic of England" 
+
+ENU_democratic:0 "English Republic"
+ENU_democratic_DEF:0 "English Republic" 
+ENU_anarchism:0 "Free Territory of England" 
+ENU_anarchism_DEF:0 "Free Territory of England"
+ENU_socialism:0 "English Union" 
+ENU_socialism_DEF:0 "English Union"
+ENU_authoritarianism:0 "English Military Council" 
+ENU_authoritarianism_DEF:0 "English Military Council" 
+ENU_nationalism:0 "The Great English Empire" 
+ENU_nationalism_DEF:0 "The Great English Empire"
+ENU_islamism:0 "English Emirate"
+ENU_islamism_DEF:0 "English Emirate"
+
+SCO_democratic:0 "Scottish Republic" 
+SCO_democratic_DEF:0 "Scottish Republic" 
+SCO_socialism:0 "Scottish Socialist Republic" 
+SCO_socialism_DEF:0 "Scottish Socialist Republic" 
+SCO_authoritarianism:0 "Scotland" 
+SCO_authoritarianism_DEF:0 "State of Scotland"
+
+WLS_democratic:0 "Welsh Republic" 
+WLS_democratic_DEF:0 "Welsh Republic" 
+WLS_socialism:0 "Welsh Socialist Republic" 
+WLS_socialism_DEF:0 "Welsh Socialist Republic" 
+WLS_authoritarianism:0 "Wales" 
+WLS_authoritarianism_DEF:0 "State of Wales"
+
+IRE_nationalism:0 "Kingdom of Ireland" 
+IRE_nationalism_DEF:0 "Ireland"
+
+#Regional powers
+ANG_democratic:0 "Federative Republic of Angola"
+ANG_democratic_DEF:0 "Angola"
+
+AST_democratic:0 "Australian Republic"
+AST_democratic_DEF:0 "Australia"
+
+CAM_democratic:0 "Kingdom of Cambodia"
+CAM_democratic_DEF:0 "Cambodia"
+
+ETH_democratic:0 "Republic of Ethiopia"
+ETH_democratic_DEF:0 "Ethiopia"
+
+GUI_democratic:0 "Guinean Federation"
+GUI_democratic_DEF:0 "Guinea"
+
+ISR_democratic:0 "State of Israel"
+ISR_democratic_DEF:0 "Israel"
+
+LAO_democratic:0 "Kingdom of Laos"
+LAO_democratic_DEF:0 "Laos"
+
+MAL_democratic:0 "Malaysian Federation"
+MAL_democratic_DEF:0 "Malaysia"
+
+MYA_democratic:0 "Union of Myanmar and Siam"
+MYA_democratic_DEF:0 "Myanmar and Siam"
+
+OCE_democratic:0 "Oceanian Federation"
+OCE_democratic_DEF:0 "Oceania"
+
+PHI_democratic:0 "Republic of the Philippines"
+PHI_democratic_DEF:0 "The Philippines"
+
+SIB_democratic:0 "Free Land of Siberia"
+SIB_democratic_DEF:0 "Siberia"
+
+SIN_democratic:0 "Republic of Singapore"
+SIN_democratic_DEF:0 "Singapore"
+
+TUA_democratic:0 "Tuareg Republic"
+TUA_democratic_DEF:0 "Tuaregia"
+
+VIN_democratic:0 "Republic of Vietnam"
+VIN_democratic_DEF:0 "Vietnam"
+
+ZAR_democratic:0 "Republic of Zaire"
+ZAR_democratic_DEF:0 "Zaire"
+
+#Major countries
+ADR_democratic:0 "Arab Democratic Republic"
+ADR_democratic_DEF:0 "Arab Democratic Republic"
+
+EGY_democratic:0 "Egyptian Republic"
+EGY_democratic_DEF:0 "Egypt"
+
+FAS_democratic:0 "Federation of African States"
+FAS_democratic_DEF:0 "Federation of African States"
+
+JAP_democratic:0 "Japanese Republic"
+JAP_democratic_DEF:0 "Japan"
+
+MON_democratic:0 "Democratic Republic of Mongolia"
+MON_democratic_DEF:0 "Mongolia"
+
+SWA_democratic:0 "Federative Republic of Swahilia"
+SWA_democratic_DEF:0 "Swahilia"
+
+USA_democratic:0 "United States of America"
+USA_democratic_DEF:0 "United States of America"
+USA_authoritarianism:0 "United States of America"
+USA_authoritarianism_DEF:0 "United States of America"
+
+#Other countries fully or partly in Africa
+ZAM_democratic:0 "Republic of Zambia"
+ZAM_democratic_DEF:0 "Zambia"
+
+GAB_democratic:0 "Gabonese Republic"
+GAB_democratic_DEF:0 "Gabon"
+
+EQG_democratic:0 "Equatorial Guinea"
+EQG_democratic_DEF:0 "Equatorial Guinea"
+
+CMR_democratic:0 "Republic of Cameroon"
+CMR_democratic_DEF:0 "Cameroon"
+
+NIG_democratic:0 "Republic of Nigeria"
+NIG_democratic_DEF:0 "Nigeria"
+
+CAR_democratic:0 "Central African Republic"
+CAR_democratic_DEF:0 "Central African Republic"
+
+CHD_democratic:0 "Republic of Chad"
+CHD_democratic_DEF:0 "Chad"
+
+NGR_democratic:0 "Republic of Niger"
+NGR_democratic_DEF:0 "Niger"
+
+BKF_democratic:0 "Burkina Faso"
+BKF_democratic_DEF:0 "Burkina Faso"
+
+MLI_democratic:0 "Republic of Mali"
+MLI_democratic_DEF:0 "Mali"
+
+SEN_democratic:0 "Senegambia"
+SEN_democratic_DEF:0 "Senegambia"
+
+SML_democratic:0 "Somaliland"
+SML_democratic_DEF:0 "Somaliland"
+
+ARC_islamism:0 "Arab Caliphate"
+ARC_islamism_DEF:0 "Arab Caliphate"
+
+MEX_anarchism:0 "Revolutionary Mexico"
+MEX_anarchism_DEF:0 "Mexico"
+
+COL_socialism:0 "Socialist Republic of Colombia"
+COL_socialism_DEF:0 "Colombia"
+
+BRA_nationalism:0 "State of the Great Brazil"
+BRA_nationalism_DEF:0 "Brazil"
+
+ARG_authoritarianism:0 "Argentine Republic"
+ARG_authoritarianism_DEF:0 "Argentina"
+
+CHL_authoritarianism:0 "Chilean Republic"
+CHL_authoritarianism_DEF:0 "Chile"
+
+PRU_anarchism:0 "Territorio Libre del Perú"
+PRU_anarchism_DEF:0 "Peru"
