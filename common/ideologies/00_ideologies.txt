@@ -3,15 +3,40 @@ ideologies = {
 	democratic = {
 	
 		types = {
-			
+						
+			centrism = {
+			}
+		
 			conservatism = {
+			}
+		
+			democratic_socialism = {
+			}
+		
+			liberal_conservatism = {
 			}
 		
 			liberalism = {
 			}
 		
+			market_liberalism = {
+			}
+		
+			minarchism = {
+			}
+		
+			national_democracy = {
+			}
+		
+			progressivism = {
+			}
+		
 			social_democracy = {
 			}
+		
+			social_liberalism = {
+			}
+		
 		}
 		
 		dynamic_faction_names = {
@@ -200,12 +225,15 @@ ideologies = {
 	
 		types = {
 		
-			despotism  = {
+			autocracy  = {
 			}
 			
 			oligarchism  = {
 			}
 			
+			neoliberalism = {
+			}			
+
 			moderatism = {
 			}
 			
