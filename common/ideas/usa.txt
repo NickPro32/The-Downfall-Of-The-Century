@@ -1,0 +1,84 @@
+ideas = { 
+
+	country = {
+		USA_extreme_corruption = {
+
+			allowed = {
+				always_no
+			}
+
+			allowed_civil_war = {
+				always_yes
+			}
+
+			removal_cost = -1
+
+			picture = 
+
+			modifier = {
+				add_stability = -0.30
+				add_war_support = -0.30
+				stability_weekly = -0.02
+			}
+		}
+		USA_economic_slump = {
+
+			allowed = { 
+				always_no
+			}
+
+			allowed_civil_war = {
+				always_yes
+			}
+
+			removal_cost = -1
+
+			picture = 
+
+			modifier = {
+				industrial_capacity_factory = -0.10
+				add_stability = -0.10
+				consumer_goods_factor = -0.20
+			}
+		}
+		USA_rise_of_gary_johnson_and_ralph_nader = {
+
+			allowed = { 
+				always_no
+			}
+
+			allowed_civil_war = {
+				always_yes
+			}
+
+			removal_cost = -1
+
+			picture = 
+
+			modifier = {
+				democratic_drift = 0.10
+				socialism_drift = 0.10
+			}
+		}
+		USA_the_draft = {
+
+			allowed = {
+				always_no
+			}
+
+			allowed_civil_war = {
+				always_yes
+			}
+
+			removal_cost = -1
+
+			picture =
+
+			modifier = {
+				conscription_factor = 0.05
+				add_war_support = -0.05
+		}
+	}
+}
+				
+			
