@@ -1,5 +1,68 @@
 #reload countrycolors
-
+UKR = {
+	color = rgb { 255  255  95 }
+	color_ui = rgb { 1 2 69}
+}
+POL = {
+	color = rgb { 197  92  106 }
+	color_ui = rgb { 123 2 2 }
+}
+HOL = {
+	color = rgb { 112 231 123}
+	color_ui = rgb { 1 2 3}
+}
+SLO = {
+	color = rgb { 123 11 111}
+	color_ui = rgb { 123 212 1}
+}
+BOH = {
+	color = rgb { 12 12 100}
+	color_ui = rgb {1 1 1}
+}
+MOR = {	
+	color = rgb {255 255 100}
+	color_ui = rgb {100 100 2}
+}
+AUS = {
+	color = rgb { 1 2 3}
+	color_ui = rgb { 3 2 1 }
+}
+ITA = {	
+	color = rgb { 50 210 10}
+	color_ui = rgb {120 30 40}	
+}
+NAP = {
+	color = rgb { 20 20 10}
+	color_ui = rgb {10 30 40}
+}
+FRA = {
+	color = rgb { 10 20 100}
+	color_ui = rgb { 110 20 100}
+}
+NAV = {
+	color = rgb { 100 200 100}
+	color_ui = rgb { 200 50 50 }
+}
+SPR = {
+	color = rgb { 39 15 147 }
+	color_ui = rgb { 1 9 1}
+}
+GAL = {	
+	color = rgb {3 123 4}
+	color_ui = rgb {1 213 1}
+}
+POR = {	
+	color = rgb {6 123 5}
+	color_ui = rgb {4 213 1}
+}
+ARA = {	
+	color = rgb {7 123 8}
+	color_ui = rgb {2 213 1}
+}
+CAT = {	
+	color = rgb {1 123 2}
+	color_ui = rgb {5 213 1}
+}
 ENU = {
 	color = rgb { 202 0 20 }
 	color_ui = rgb { 202 0 20 }
